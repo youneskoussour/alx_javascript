@@ -1,0 +1,1 @@
+using the input and output syntax of Javascript
